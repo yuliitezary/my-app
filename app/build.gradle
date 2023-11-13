@@ -26,4 +26,5 @@ android {
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
     implementation 'com.google.android.gms:play-services-ads:22.5.0'
+    constraints.implementation 'androidx.fragment:fragment:1.6.2'
 }
