@@ -1,4 +1,4 @@
-package com.yuliitezary.gpt;
+package com.yuliitezary.Ygpt;
 
 import android.annotation.SuppressLint;
 import android.app.Activity;

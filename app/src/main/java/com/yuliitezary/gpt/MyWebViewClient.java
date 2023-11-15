@@ -1,4 +1,4 @@
-package com.yuliitezary.gpt;
+package com.yuliitezary.Ygpt;
 
 import android.content.Intent;
 import android.net.Uri;
