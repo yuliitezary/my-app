@@ -10,11 +10,11 @@ android {
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.yuliitezary.Ygpt"
+        applicationId 'com.yuliitezary.gpt'
         minSdk 19
         targetSdk 33
-        versionCode 1
-        versionName "1.1"
+        versionCode 12
+        versionName "2.3"
     }
     buildTypes {
         release {
@@ -22,7 +22,7 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
-    namespace 'com.yuliitezary.Ygpt'
+    namespace 'com.yuliitezary.gpt'
     ndkVersion '26.1.10909125'
 }
 
