@@ -78,4 +78,7 @@ public class MainActivity extends Activity {
         }
 
     }
+    public void onReceivedSslError (WebView view,
+                                    SslErrorHandler handler,
+                                    SslError error)
 }

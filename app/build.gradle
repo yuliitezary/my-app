@@ -13,8 +13,8 @@ android {
         applicationId 'com.yuliitezary.gpt'
         minSdk 19
         targetSdk 33
-        versionCode 12
-        versionName "2.3"
+        versionCode 13
+        versionName "2.4"
     }
     buildTypes {
         release {
