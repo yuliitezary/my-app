@@ -6,4 +6,4 @@
     <string name="web_url">http://89.149.118.186:7860/</string>
 </resources>
 
-    <!-- To use file as web_url, set it to; "file:///android_asset/index.html"); -->
+    <!-- To use file as web_url, set it to; "file:///android_casset/index.html"); -->
