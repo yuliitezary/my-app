@@ -71,14 +71,11 @@ public class MainActivity extends Activity {
 
     @Override
     public void onBackPressed() {
-        if(mWebView.canGoBack()) {
+        if (mWebView.canGoBack()) {
             mWebView.goBack();
         } else {
             super.onBackPressed();
         }
 
     }
-    public void onReceivedSslError (WebView view,
-                                    SslErrorHandler handler,
-                                    SslError error)
 }
